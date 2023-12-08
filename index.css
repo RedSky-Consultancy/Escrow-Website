@@ -1,0 +1,75 @@
+/* navbar */
+
+.nav-head-c{
+    /* font-size: large; */
+    /* color:  #004785; */
+    color: #668080;
+    transition: 3ms;
+    font-family: calibri;
+    font-size: 20px;
+
+   }
+   .nav-head-c:hover{
+    color: #58C0BB;
+    /* color:rgb(0, 0, 254); */
+   }
+
+   /* baner-img */
+   .baner-101{
+    
+   }
+
+/* welcome page */
+
+   .border-radius12{
+    /* background-color: #004a96; */
+    /* background: linear-gradient(#004a96,#000b3b); */
+    /* background: linear-gradient(#58C0BB,#518C8A); */
+    background: linear-gradient(#58C0BB,#507D7B);
+   
+
+    border-radius: 0px 0px 0px 0px;
+   }
+/* enquire now page */
+   .enquire{
+    background: linear-gradient(#58C0BB,#507D7B);
+
+   }
+
+
+/* ABOUT */
+.about-1{
+    color: #58C0BB;
+}
+.about-img-11{
+    border-radius: 20px;
+    border: 2px solid #58C0BB;
+    box-shadow: 3px 3px 3px 3px #96BDE0;  
+   transition: 1s;
+}
+.about-img-11:hover{
+    transform: scale(1.1);
+}
+.about-text-es{
+    color: black;
+    font-size: 16px;
+   
+    
+}
+.escrow-about{
+    font-size:x-large;
+    color: #507D7B;
+}
+.about-top-img-1{
+
+}
+
+.about-img-12{
+    border-radius: 20px;
+    border: 2px solid #58C0BB;
+    box-shadow: 3px 3px 3px 3px #96BDE0;   
+    transition: 1s;
+}
+.about-img-12:hover{
+    transform: scaleY(1.1);
+}
