@@ -9,6 +9,7 @@
     border: 1px solid black;
     border-radius: 16px;
     border-color: #004785;
+    height: 302px;
     padding: 5px;
     /* background-color: #507D7B; */
     background: linear-gradient(#507D7B,#58C0BB,#507D7B);
@@ -35,3 +36,36 @@
  
  
    }
+  
+.about-text-es-4{
+    color: black;
+    font-size: 20px; 
+    font-family: calibri;   
+}
+.escrow-heading-tag-1{
+    color: #2b577c;
+    font-size: 20px; 
+    font-family: calibri;  
+}
+.product-border-coeur-1{
+    border: 1px solid black;
+    border-color: #004785;
+    border-radius: 16px;
+    font-family: calibri;
+  
+  
+  }
+  .escrow-font-size-service{
+    font-size: 16px;
+  }
+  
+  .escrow-height-1211{
+    height: 390px;
+  }
+  .color-escrow{
+    color:  #58C0BB;
+  }
+  .calibri-font-new-1{
+    font-family: calibri;
+    font-size: 16px;
+  }
