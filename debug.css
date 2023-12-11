@@ -372,10 +372,7 @@
  
  /* key-modules */
  
- .key-h-color{
-     color: #A90533;
  
- }
  .key-h-c{
      
      font-size: large;
@@ -384,18 +381,7 @@
  .un-list-2{
      color: black;
  }
- .key-bor-1{
-     border: 1px solid #004785 ;
-     padding: 30px;
-     height: 288px;
-     border-radius: 10px;
- }
- .key-bor-2{
-     border: 1px solid  #004785 ;
-     padding: 30px;
-     height: 288px;
-     border-radius: 10px;
- }
+ 
  .key-bor-3{
      border: 1px solid  #004785 ;
      padding: 30px;
@@ -705,9 +691,7 @@
      border-radius: 16px;
      
  }
- .p{
-     margin-top: -20px;
- }
+
  
  
  
@@ -766,15 +750,8 @@
 .escrow-contact-new:hover{
     transform: scale(1.1);
 }
-.calibri{
-    font-family: calibri;
-    font-weight: 600;
-    
-   
-}
-.capital{
-    text-transform: uppercase;
-}
+
+
 .calibri-1{
     font-family: calibri;
     font-size: 20px;
@@ -803,4 +780,10 @@
 .calibrif{
     font-family: calibri;
     font-size: 16px;
+}
+
+.data-security{
+    font-family: calibri;
+    font-size: 16px;
+    color: black;
 }
