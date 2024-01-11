@@ -24,7 +24,7 @@
 }
 
 .our-sol-p-1{
-margin-top: 50px;
+margin-top: 20px;
  
  /* height: 363px; */
  display: flex;
@@ -103,6 +103,7 @@ margin-top: 50px;
   padding: 0;
  }
  .product-border-coeur-img{
+  
   border-radius: 16px;
   width: 1170px;
 }
